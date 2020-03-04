@@ -1,0 +1,45 @@
+h1 {
+  font-family: Arimo, Times;
+  color: rgba(247, 15, 45, 0.849);
+}
+
+body {
+  font-family: Arimo, Times;
+  color: black;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  text-align: left;
+}
+
+span.highlight{
+  font-family: Arimo, Times;
+  font-style: bold;
+  color: black;
+}
+
+p#product-description:first-letter {
+  font-size: 200%;
+}
+
+p#product-description {
+  font-family: Arimo, Times;
+  color: black;
+}
+
+div.review {
+  font-family: Arimo, Times;
+  color: rgb(0,0,0);
+}
+
+h3 {
+  font-family: Arimo, Times;
+  font-style: italic;
+  color: #000000;
+}
+
+a[href="https://www.merlitta.com"] {
+  background-color: rgba(43, 37, 37, 0);
+}
