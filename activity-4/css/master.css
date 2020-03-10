@@ -1,0 +1,29 @@
+body {
+  font-family: Arimo, Times;
+  color: rgb(0,0,205);
+}
+
+h1 {
+  font-family: Arimo, Times;
+  color: rgb(0,0,205);
+}
+
+img {
+  font-family: Arimo, Times;
+  color: rgb(0,0,205);
+}
+
+figcaption span {
+  font-family: Arimo, Times;
+  color: rgb(0,0,205);
+}
+
+p#product-description {
+  font-family: Arimo, Times;
+  color: rgb(0,0,205);
+}
+
+div.review {
+  font-family: Arimo, Times;
+  color: rgb(0,0,205);
+}
