@@ -1,29 +1,41 @@
-body {
-  font-family: Arimo, Times;
-  color: rgb(0,0,205);
-}
-
 h1 {
   font-family: Arimo, Times;
-  color: rgb(0,0,205);
+  color: rgba(247, 15, 45, 0.849);
+}
+
+body {
+  font-family: Arimo, Times;
+  color: black;
 }
 
 img {
-  font-family: Arimo, Times;
-  color: rgb(0,0,205);
+  width: 250px;
+  height: 250px;
+  text-align: left;
 }
 
-figcaption span {
+span.highlight{
   font-family: Arimo, Times;
-  color: rgb(0,0,205);
+  font-style: bold;
+  color: black;
+}
+
+p#product-description:first-letter {
+  font-size: 200%;
 }
 
 p#product-description {
   font-family: Arimo, Times;
-  color: rgb(0,0,205);
+  color: black;
 }
 
 div.review {
   font-family: Arimo, Times;
-  color: rgb(0,0,205);
+  color: rgb(0,0,0);
+}
+
+h3 {
+  font-family: Arimo, Times;
+  font-style: italic;
+  color: #000000;
 }
