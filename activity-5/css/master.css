@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(192, 177, 219);
+  font-family: 'Open Sans', sans-serif;
+  margin: auto 30px;
+}
+
+#credits {
+  color: rgb(17, 15, 16);
+  font-style: italic;
+  font-size: .75em;
+  margin-bottom: 20px;
+}
+
+#header-image {
+  width: 100%;
+}
